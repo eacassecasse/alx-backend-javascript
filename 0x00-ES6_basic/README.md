@@ -1,7 +1,3 @@
-Here's a sample `README.md` file based on the provided information for your project "0x00. ES6 Basics."
-
----
-
 # 0x00. ES6 Basics
 
 ## Project Overview
@@ -135,11 +131,3 @@ ES6 adds iterators and a new loop syntax (`for...of`) for iterating over iterabl
 ├── __tests__/               # Folder for Jest test files
 └── .eslintrc.js             # ESLint configuration
 ```
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-This `README.md` template provides an overview of your ES6 Basics project, including setup instructions, requirements, and key ES6 concepts. You can modify this template as needed!
